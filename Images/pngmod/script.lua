@@ -17,7 +17,7 @@ function blocks(b)
   elseif b == 9  then return "minecraft:cyan_wool"
   elseif b == 10 then return "minecraft:purple_wool"
   elseif b == 11 then return "minecraft:blue_wool"
-  elseif b == 12 then return "minecraft:brown_wool"
+  elseif b == 12 then return "minecraft:red_wool"
   elseif b == 13 then return "minecraft:green_wool"
   elseif b == 14 then return "minecraft:red_wool"
   elseif b == 15 then return "minecraft:black_wool"
