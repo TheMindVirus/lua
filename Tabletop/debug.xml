@@ -1,0 +1,2 @@
+<!-- Xml UI. See documentation: https://api.tabletopsimulator.com/ui/introUI/ -->
+<Button width="100" height="45" rectAlignment="UpperLeft" offsetXY="70 -10" onClick="onDebug">Debug</Button>

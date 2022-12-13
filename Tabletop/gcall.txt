@@ -1,0 +1,62 @@
+physics_inspection loading...
+Loading Complete.
+[Custom_AssetBundle(Clone)(LuaGameObjectScript)]
+true
+global_call
+table: 0000C563
+Transform
+MeshFilter
+MeshRenderer
+Rigidbody
+AudioSource
+true
+[Cube(Clone)]
+true
+global_call
+table: 0000C580
+Transform
+BoxCollider
+true
+[Cube1_1]
+true
+global_call
+Error in Script(Global) function
+<startLuaCoroutine/global_call>: Object reference not set to an
+instance of an object
+nil
+true
+[Cube2_1]
+true
+global_call
+table: 0000C5A8
+Transform
+MeshFilter
+BoxCollider
+MeshRenderer
+true
+[Cube3_1]
+true
+global_call
+table: 0000C5C2
+Transform
+MeshFilter
+BoxCollider
+MeshRenderer
+true
+[Cube4_1]
+true
+global_call
+table: 0000C5DC
+Transform
+MeshFilter
+BoxCollider
+MeshRenderer
+true
+
+nil
+nil
+nil
+0
+1
+2
+table: 0000C5F7
