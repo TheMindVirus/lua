@@ -1,6 +1,8 @@
 # Introducing `gcall()` for Tabletop Simulator Moonsharp Lua 5.2 Version 2.0.0.0
 
-<pending>
+https://github.com/TheMindVirus/lua/blob/600cb07aa6efd98caa0c45c39060eec7c1eab0af/Tabletop/gcall.lua#L100
+
+![gcall](/Tabletop/gcall.png)
 
 `gcall()` is a workaround for obscure errors encountered in Lua Scripting \
 for Tabletop Simulator. It performs step-over behaviour, allowing code to \
