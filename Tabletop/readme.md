@@ -26,3 +26,5 @@ with the built-in `pcall()` and `xpcall()` functions, as even they halt.
 
 Numerous other bugs were encountered in the development of `gcall()` \
 such as Hinge Joints with Child-Objects of Prefabs not working as expected.
+
+TODO: Add an option which silences forcibly raised errors during `gcall()`
